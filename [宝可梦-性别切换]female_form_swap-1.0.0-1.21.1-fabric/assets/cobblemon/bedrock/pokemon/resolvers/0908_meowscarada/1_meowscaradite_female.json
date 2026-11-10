@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:meowscarada",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female",
+        "mega"
+      ],
+      "model": "cobblemon:meowscaradite_female.geo",
+      "texture": "cobblemon:textures/pokemon/0908_meowscarada/meowscaradite_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "mega",
+        "shiny"
+      ],
+      "model": "cobblemon:meowscaradite_female.geo",
+      "texture": "cobblemon:textures/pokemon/0908_meowscarada/meowscaradite_female_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:floragato",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:floragato_female.geo",
+      "texture": "cobblemon:textures/pokemon/0907_floragato/floragato_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "model": "cobblemon:floragato_female.geo",
+      "texture": "cobblemon:textures/pokemon/0907_floragato/floragato_female_shiny.png"
+    }
+  ]
+}

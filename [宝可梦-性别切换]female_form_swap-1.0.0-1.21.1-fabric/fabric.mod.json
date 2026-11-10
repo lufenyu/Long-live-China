@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "female_form_swap",
+  "version": "1.1.0-r3",
+  "name": "Cobblemon 雌性形态",
+  "description": "给宝可梦加一套只属于雌性的模型、动画和贴图：雌性显示自定义形态，雄性保持原版，闪光形态也一起生效。目前支持新叶喵进化线的雌性形态。",
+  "authors": [
+    "AutoMods"
+  ],
+  "icon": "assets/female_form_swap/textures/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "cn.blockforge.generated.femaleformswap.FemaleFormSwapClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*",
+    "cobblemon": ">=1.6.0"
+  }
+}
